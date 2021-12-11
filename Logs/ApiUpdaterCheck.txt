@@ -1,0 +1,80 @@
+[api-updater (non-obsolete-error-filter)] 11/12/2021 21:46:01 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100.716ms
+moved types parse time: 87ms
+candidates parse time : 2ms
+C# parse time         : 371ms
+candidates check time : 97ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/12/2021 21:46:13 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84.557ms
+moved types parse time: 95ms
+candidates parse time : 2ms
+C# parse time         : 396ms
+candidates check time : 88ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/12/2021 22:03:13 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 80.368ms
+moved types parse time: 85ms
+candidates parse time : 2ms
+C# parse time         : 378ms
+candidates check time : 84ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/12/2021 22:03:58 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 77.256ms
+moved types parse time: 86ms
+candidates parse time : 1ms
+C# parse time         : 362ms
+candidates check time : 85ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/12/2021 23:01:37 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79.435ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 366ms
+candidates check time : 99ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/12/2021 23:04:27 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 111.095ms
+moved types parse time: 94ms
+candidates parse time : 2ms
+C# parse time         : 384ms
+candidates check time : 95ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/12/2021 23:04:53 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 96.782ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 383ms
+candidates check time : 76ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/12/2021 23:05:07 : Starting /home/gerardonapoli/Desktop/UnityProject/2020.3.24f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 107.065ms
+moved types parse time: 84ms
+candidates parse time : 2ms
+C# parse time         : 380ms
+candidates check time : 94ms
+console write time    : 1ms
+
